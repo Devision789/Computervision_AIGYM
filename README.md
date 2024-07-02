@@ -29,3 +29,6 @@ To use the Computer Vision Gym Exercise App, position your device so that your f
 ## Contribute
 
 We welcome contributions! If you have any suggestions, bug reports, or feature requests, feel free to open an issue.
+## Contact
+Whatsapp +84898336308 if you need help
+Email computervision9999@gmail.com
